@@ -223,6 +223,7 @@ const Pulse = keyframes`
 const Button = styled.button`
   border-radius: 10px;
   text-align: center;
+  cursor: pointer;
   padding: 5px;
   font-size: 13px;
   width: 80%;
